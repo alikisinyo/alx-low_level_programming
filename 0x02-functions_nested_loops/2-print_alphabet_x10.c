@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 - print alphabet 10 times
+ * print_alphabet - print alphabet 10 times
  *
  * Return: void
  */
 
-void print_alphabet_x10(void)
+void print_alphabet(void)
 {
 	int round = 0;
 	char letter = 'a';
