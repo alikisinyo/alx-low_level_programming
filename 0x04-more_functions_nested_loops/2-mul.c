@@ -2,13 +2,13 @@
 /**
 *mul - multiplies two ints. *@a: integer. *@b: integer.
 *
-*Return: product.
+*Return: p.
 */
 
 int mul(int a, int b)
 {
-	int product;
+	int p;
 
-	product	= a * b;
-	return (product);
+	p = a * b;
+return (p);
 }
