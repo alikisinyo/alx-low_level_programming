@@ -10,6 +10,6 @@ int mul(int a, int b)
 {
 	int q;
 
-	product = a * b;
+	q = a * b;
 	return (q);
 }
