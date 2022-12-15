@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *mul - multiplies two ints.
  *@a: integer.
@@ -6,6 +7,7 @@
  *
  *Return: q.
  */
+
 int mul(int a, int b)
 {
 	int q;
