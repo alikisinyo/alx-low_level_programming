@@ -30,5 +30,5 @@ char *leet(char *w)
 		}
 		count++;
 	}
-	return (f);
+	return (w);
 }
